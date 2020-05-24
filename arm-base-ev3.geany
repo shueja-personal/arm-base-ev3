@@ -18,8 +18,8 @@ detect_indent_width=false
 indent_mode=2
 
 [project]
-name=template-ev3-project
-base_path=/home/pi/git/template-ev3-project
+name=arm-base-ev3
+base_path=/home/pi/git/arm-base-ev3
 
 [long line marker]
 long_line_behaviour=1
